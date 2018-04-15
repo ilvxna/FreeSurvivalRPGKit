@@ -6,8 +6,10 @@ This is a FREE kit made in Unity Engine (Version 5+), to help developers create 
 
 ### Informations ###
 
+* Unity Engine (Version 5+)
 * Low Poly Fantasy RPG Environment
 * Intuitive package and easy-to-customize
+* Currently working in progress and regular commits
 
 ### Features ###
 
@@ -23,16 +25,18 @@ This is a FREE kit made in Unity Engine (Version 5+), to help developers create 
 * Levels
 * Attributes
 * Inventory, Items and Gold System
-* Crafting 
+* Crafting and Building System
 * Pets & Customizable Behaviour
 * NPC Trading & Quests
 * Murder System
 * Day, night and weather system
 * Death and Respawning
-* SQLite Database to save and load data
 * Carefully crafted C# Code
-* Platform Independent
-* Mobile Support
+* ~~Platform Independent~~ (needed make some adjusts on joystick for this feature, will be on future update)
+* ~~Mobile Support~~ (on future update)
+* ~~SQLite Database to save and load data~~ (on future update)
 * Tottaly FREE to customize
 
-### Created By: Two TV Games ###
+### Two TV Games ###
+
+* Developer: GallighanMaker
